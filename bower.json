@@ -1,0 +1,8 @@
+{
+  "name": "vue-mq",
+  "main": "dist/vue-mq.js",
+  "license": "MIT",
+  "keywords": [
+    "vue-mq"
+  ]
+}
