@@ -4,5 +4,17 @@
   "license": "MIT",
   "keywords": [
     "vue-mq"
+  ],
+  "homepage": "https://github.com/AlexandreBonaventure/vue-mq",
+  "authors": [
+    "Alexandre Bonaventure Geissmann <alexandrebonaventure>"
+  ],
+  "description": "Vue.js Media Query helper",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
   ]
 }
